@@ -9,7 +9,7 @@ In my free time I like to be with my family (wife and daughter) to watch movies 
 
 ### What I'm working on 👨‍💻
 
-💼 Currently creating my personal web site
+💼 Currently creating my personal web site <br>
 🍐 Currently building a scheduling custom - Studio Pera
 
 ### Would you like to find me? 🌎
