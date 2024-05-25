@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Pedro! 👋
 
-<!--
-**dropefernandes/dropefernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Software Engineer at [Mercado Livre](mercadolivre.com.br) <br>
+🇧🇷 Born and Living in São Paulo, Brazil <br>
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Pedro Fernandes from Brazil (🇧🇷). I've been working as Front End Developer since 2016 and currently I'm Software Engineer at Mercado Livre. I am passionate about creating new products, learning new technologies, software engineering and open source projects.
+
+In my free time I like to be with my family (wife and daughter) to watch movies (🎞️) and series (📺), listen to music (🎵)
+
+### Would you like to find me? 🌎
+
+🚀 [Site](https://drope.dev) <br>
+🐦 [Twitter](https://x.com/pdrpeo) <br>
+📸 [Instagram](https://www.instagram.com/pdrpeo/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/peofernandes/) <br>
